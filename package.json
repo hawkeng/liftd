@@ -1,0 +1,12 @@
+{
+  "name": "liftd",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "bin": {
+    "liftd": "./index.js"
+  }
+}
